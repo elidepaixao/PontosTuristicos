@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Open Sans", serif;
+  -webkit-font-smoothing: antialiased;
+
+}
+
+body {
+  padding: 80px;
+}
+
+
+h3 {
+  
+  color: #E1624F;
+  font-size: 16px;
+}
+
+h1 {
+  color: #1B1B1B;
+  font-size: 36px;
+
+}
+
+figcaption {
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  font-weight: 400;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 28px;
+  height: auto;
+}
