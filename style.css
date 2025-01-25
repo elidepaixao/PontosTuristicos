@@ -21,20 +21,30 @@ h3 {
 }
 
 h1 {
+  margin-bottom: 40px;
   color: #1B1B1B;
   font-size: 36px;
+  
 
 }
 
+
 figcaption {
+  margin: 24px 40px;
   font-size: 16px;
   font-style: italic;
   text-align: center;
   font-weight: 400;
+
+  
 }
 
 img {
   max-width: 100%;
   border-radius: 28px;
   height: auto;
+}
+
+.intro {
+  margin: 64px 0;
 }
