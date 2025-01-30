@@ -13,6 +13,10 @@ body {
   padding: 80px;
 }
 
+h4 {
+  font-weight: bold;
+  margin: 10px;
+}
 
 h3 {
   
@@ -21,11 +25,21 @@ h3 {
 }
 
 h1 {
+  text-transform: uppercase;
+  font-weight: bold;
   margin-bottom: 40px;
   color: #1B1B1B;
   font-size: 36px;
   
+}
 
+p {
+  margin-top: 10px;
+}
+
+figure img {
+  max-width: 100%;
+  border-radius: 28px;
 }
 
 
@@ -39,12 +53,21 @@ figcaption {
   
 }
 
-img {
+.destino img {
   max-width: 100%;
   border-radius: 28px;
   height: auto;
+  margin-top: 48px;
+  margin-bottom: 20px;
 }
 
 .intro {
   margin: 64px 0;
 }
+
+ul li {
+  margin-left: 20px;
+ 
+}
+
+
