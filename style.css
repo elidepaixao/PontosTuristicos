@@ -12,7 +12,7 @@
 
 body {
   padding: 80px;
-  background-color: #D9D9D9;
+  background-color:d9d9d9;
 }
 
 h4 {
@@ -44,6 +44,8 @@ p {
   margin-top: 10px;
   font-size: 16px;
   color: #333333;
+  text-indent: 20px; /*recuo no parágrafo*/
+  text-align: justify;
 }
 
 figure img {
@@ -68,7 +70,8 @@ figcaption {
     width: 100%;
     height: 1px;
     margin: 36px 0;
-    background-color: #d9d9d9;
+    background-color: #A9A9A9;
+    opacity: 50%;
  
   
 }
@@ -82,7 +85,7 @@ figcaption {
 }
 
 .intro {
-  margin: 64px 0;
+  margin: 32px 0;
 }
 
 ul li {
